@@ -1,0 +1,19 @@
+{
+  "name": "skill-bites",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1",
+    "passport": "^0.6.0",
+    "passport-google-oauth20": "^2.0.0",
+    "bcrypt": "^5.1.0",
+    "jsonwebtoken": "^9.0.0",
+    "pdfkit": "^0.13.0",
+    "dotenv": "^16.0.0",
+    "express-session": "^1.17.0"
+  }
+}
